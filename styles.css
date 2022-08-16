@@ -1,0 +1,140 @@
+body{
+    font-family: 'DynaPuff', cursive;
+    background-color: #ffdab9;
+}
+
+#main{
+    width: 900px;
+    height: 400px;
+    background-color: #e9c46a;
+    margin: 0 auto;
+    border-radius: 1em;
+    box-shadow: 0px 10px 25px 5px rgba(0,0,0,0.25);
+}
+
+#titleDiv{
+    width: 550px;
+    height: 100px;
+    margin: 0 0.2em;
+    border-radius: 1em;
+    background-color: #2a9d8f;
+    text-align: center;
+}
+
+#title{
+    color: #f1faee;
+    padding: 0.5em 0;
+    font-size: 2em;
+}
+
+.scores{
+    width: 172px;
+    height: 100px;
+    background-color: #457b9d;
+    border-radius: 1em;
+    display: inline-block;
+    color: white;
+    text-align: center;
+}
+
+#topPart{
+    display: flex;
+    justify-content: center;
+    margin-top: 20vh;
+    margin-bottom: 0.2em;
+}
+
+.points{
+    font-size: 2em;
+    font-size: 5.5em;
+}
+
+#titleDiv,.scores{
+    box-shadow: 0px 2px 5px 1px rgba(0,0,0,0.25);
+}
+
+#main #playBtn{
+    display: inline-block;
+    border: 1px solid black;
+    color: black;
+    padding: 0.5em 4em;
+    box-shadow: 2px 2px 0px 2px;
+    text-decoration: none;
+    margin-left: 15em;
+    margin-right: 5em;
+    margin-top: 2em;
+    transition: all 0.2s ease-in;
+    max-width: 3em;
+}
+
+#main #rstBtn{
+    display: inline-block;
+    border: 1px solid black;
+    color: black;
+    padding: 0.5em 4em;
+    box-shadow: 2px 2px 0px 2px;
+    text-decoration: none;
+    transition: all 0.2s ease-in;
+    max-width: 3em;
+}
+
+#main #playBtn:hover{
+    box-shadow: none;
+    transform: translate(2px,2px);
+}
+
+#main #rstBtn:hover{
+    box-shadow: none;
+    transform: translate(2px,2px);
+}
+
+#topLayer{
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+}
+
+.players{
+    margin: 0.2em 0;
+    border: 1px solid black;
+    border-radius: 0.3em;
+    padding: 0 1em;
+    background-color: #cbdfbd;
+}
+
+#userName{
+    margin-right: 4em;
+    margin-left: 1.5em;
+}
+
+#compName{
+    margin-left: 1em;
+    margin-right: 0.2em;
+}
+
+#options{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: flex-end;
+}
+
+.opt{
+    width: 200px;
+    height: 200px;
+    background-color: #00bbf9;
+    border-radius: 1em;
+    margin-top: 4em;
+}
+
+.opt{
+    text-align: center;
+    transition: all 0.1s ease-in;
+}
+
+.opt h1{
+    margin: 2.5em 0;
+}
+
+.opt:hover{
+    transform: translate(0,-2.5px);
+}
