@@ -112,7 +112,11 @@ body{
     margin-right: 0.2em;
 }
 
-#options{
+.noOpt{
+    display: none;
+}
+
+.options{
     display: flex;
     justify-content: space-evenly;
     align-items: flex-end;
@@ -137,4 +141,9 @@ body{
 
 .opt:hover{
     transform: translate(0,-2.5px);
+}
+
+.disabled{
+    background-color: red;
+    box-shadow: none;
 }
