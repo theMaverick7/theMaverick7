@@ -7,10 +7,10 @@ Final-year student exploring the intersection of backend engineering and intelli
 ---
 
 ### 🛠️ Core Stack
-**Backend Core** | Node.js, Python, Express, Django |
-**Intelligent Systems** | OpenAI API, LangChain, RAG (Retrieval-Augmented Generation) |
-**Data & Storage** | PostgreSQL, MongoDB, Redis, Vector Databases
-**DevOps & Infrastructure** | Docker, Git, RESTful API Design, Postman |
+| **Backend Core** | Node.js, Python, Express, Django |
+| **Intelligent Systems** | OpenAI API, LangChain, RAG (Retrieval-Augmented Generation) |
+| **Data & Storage** | PostgreSQL, MongoDB, Redis, Vector Databases (Pinecone/Milvus) |
+| **DevOps & Infrastructure** | Docker, Git, RESTful API Design, Postman |
 
 ### 🏗️ My Focus Areas
 - 🤖 **Agentic Backend Systems:** Designing servers that don't just store data, but "think" and act using LLMs.
