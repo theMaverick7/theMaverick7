@@ -8,11 +8,11 @@ Backend systems are what pulled me into coding in the first place. They are exci
  
 ### 🛠️ Core Stack
 
-**Programming** — Nodejs, Typescript, Python, RESTful Apis
-**Database** — PostgreSQL, MongoDB, SQL, Redis
-**Infrastructure** — Docker, Job queues, Microservices
-**Frameworks** — Express.js, Sequelize
-**Tools** — Git, Apidog, Postman, Docker, Wireshark, Claude Code, Cursor, VSCode
+**Programming** — Nodejs, Typescript, Python, RESTful Apis\
+**Database** — PostgreSQL, MongoDB, SQL, Redis\
+**Infrastructure** — Docker, Job queues, Microservices\
+**Frameworks** — Express.js, Sequelize\
+**Tools** — Git, Apidog, Postman, Docker, Wireshark, Claude Code, Cursor, VSCode\
 **Platforms** — Linux, WSL, Windows
  
 ### 🧱 What I've Been Building
