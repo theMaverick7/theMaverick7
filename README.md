@@ -1,28 +1,31 @@
 # Hi, I'm Faiq 👋
-
-**Aspiring Backend Systems Engineer | Intelligent Systems Architect**
-
-Final-year student exploring the intersection of backend engineering and intelligent systems.
-
+ 
+**Backend Developer**
+ 
+Backend systems are what pulled me into coding in the first place. They are exciting and intimidating at the same time, which is probably why I keep coming back to them.
+ 
 ---
-
+ 
 ### 🛠️ Core Stack
-| **Backend Core** | Node.js, Python, Express, Django |
-| **Intelligent Systems** | OpenAI API, LangChain, RAG (Retrieval-Augmented Generation) |
-| **Data & Storage** | PostgreSQL, MongoDB, Redis, Vector Databases (Pinecone/Milvus) |
-| **DevOps & Infrastructure** | Docker, Git, RESTful API Design, Postman |
 
-### 🏗️ My Focus Areas
-- 🤖 **Agentic Backend Systems:** Designing servers that don't just store data, but "think" and act using LLMs.
-- ⚡ **Scalable Architectures:** Implementing efficient data flow and caching to handle high-concurrency environments.
-- 🔍 **Vector Search & RAG:** Building knowledge-aware systems that provide contextually relevant AI responses.
-- 🛠️ **System Design:** Moving beyond code to think about how components interact for reliability and speed.
+**Programming** — Nodejs, Typescript, Python, RESTful Apis
+**Database** — PostgreSQL, MongoDB, SQL, Redis
+**Infrastructure** — Docker, Job queues, Microservices
+**Frameworks** — Express.js, Sequelize
+**Tools** — Git, Apidog, Postman, Docker, Wireshark, Claude Code, Cursor, VSCode
+**Platforms** — Linux, WSL, Windows
+ 
+### 🧱 What I've Been Building
+ 
+- **BlackNWhite** — a self-hosted, containerized document management and OCR pipeline, built as a set of coordinated services.
+  
+### 🌱 Currently Learning
 
-### 🔗 Connect with me
-- 💼 LinkedIn - [linkedin.com/in/khanfaiq](https://www.linkedin.com/in/khanfaiq)
-- 📧 Email - [themave07@gmail.com](mailto:themave07@gmail.com)
+- Advanced Backend Concepts
+- System design patterns for scaling backend services
+- Linux advance concepts
 
-<!---
-theMaverick7/theMaverick7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 📫 Connect with me
+ 
+- 💼 LinkedIn - [linkedin.com/in/khanfaiq](https://linkedin.com/in/khanfaiq)
+- 📧 Email - [faiqkhan.dev7@gmail.com](mailto:faiqkhan.dev7@gmail.com)
